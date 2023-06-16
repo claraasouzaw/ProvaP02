@@ -32,9 +32,9 @@ public class Funcionario
         double salario = 2000;
 
 
-        if (funcao == medico)
+        if (medico >= 2000)
         {
-            salariofim = salario + (2000 * 20 / 100);
+            return = salario + (2000 * 20 / 100);
         }
 
 

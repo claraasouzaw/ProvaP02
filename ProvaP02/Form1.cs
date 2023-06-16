@@ -46,6 +46,9 @@ namespace ProvaP02
             string salario = tx_salario.Text;
 
             Funcionario f = new Funcionario(matricula, cpf, nome, funcao, Convert.ToDouble(salario));
+            lb_confirm.Text = $"seu salário é";
+            lb_confirm2.Text = $"seu jrpf é";
+
 
         }
 
