@@ -1,0 +1,11 @@
+C:\Users\2022102020065\source\repos\ProvaP02\ProvaP02\bin\Debug\ProvaP02.exe.config
+C:\Users\2022102020065\source\repos\ProvaP02\ProvaP02\bin\Debug\ProvaP02.exe
+C:\Users\2022102020065\source\repos\ProvaP02\ProvaP02\bin\Debug\ProvaP02.pdb
+C:\Users\2022102020065\source\repos\ProvaP02\ProvaP02\obj\Debug\ProvaP02.csproj.AssemblyReference.cache
+C:\Users\2022102020065\source\repos\ProvaP02\ProvaP02\obj\Debug\ProvaP02.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020065\source\repos\ProvaP02\ProvaP02\obj\Debug\ProvaP02.Form1.resources
+C:\Users\2022102020065\source\repos\ProvaP02\ProvaP02\obj\Debug\ProvaP02.Properties.Resources.resources
+C:\Users\2022102020065\source\repos\ProvaP02\ProvaP02\obj\Debug\ProvaP02.csproj.GenerateResource.cache
+C:\Users\2022102020065\source\repos\ProvaP02\ProvaP02\obj\Debug\ProvaP02.csproj.CoreCompileInputs.cache
+C:\Users\2022102020065\source\repos\ProvaP02\ProvaP02\obj\Debug\ProvaP02.exe
+C:\Users\2022102020065\source\repos\ProvaP02\ProvaP02\obj\Debug\ProvaP02.pdb
