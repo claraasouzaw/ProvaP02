@@ -45,7 +45,7 @@ namespace ProvaP02
             string funcao = tx_funcao.Text;
             string salario = tx_salario.Text;
 
-            funcionario f = new funcionario();
+            Funcionario f = new Funcionario(matricula, cpf, nome, funcao, Convert.ToDouble(salario));
 
         }
 
